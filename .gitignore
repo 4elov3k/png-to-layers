@@ -1,0 +1,29 @@
+# Binary files
+layers
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.bmp
+*.webp
+
+# Output directory
+out/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
